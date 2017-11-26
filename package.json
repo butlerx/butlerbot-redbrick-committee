@@ -1,6 +1,6 @@
 {
   "name": "butlerbot-redbrick-committee",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "redbrick committee plugin for butlerbot",
   "main": "index.js",
   "author": "butlerx <butlerx@notthe.cloud>",
