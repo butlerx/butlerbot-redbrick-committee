@@ -1,11 +1,10 @@
 import _ from 'lodash';
 import request from 'request-promise-native';
-import config from '../../config/config.json';
 
 const env = process.env.NODE_ENV || 'development';
 
 export default class RedbrickCommittee {
-  constructor() {
+  constructor(config) {
     this.config = config[env];
     this.postions = config.position;
   }
