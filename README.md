@@ -11,7 +11,7 @@ yarn add butlerbot-redbrick-committee
 Create a file in the plugin dir as follows
 
 ```js
-import cmt from 'butlerbot-redbrick-committee
+import cmt from 'butlerbot-redbrick-committee';
 export default cmt({
   development: {
     "url": "http://redbrick.dcu.ie/api/committee",
