@@ -39,7 +39,7 @@
   "dependencies": {
     "@std/esm": "^0.2.2",
     "lodash": "^4.17.4",
-    "request": "2.34",
+    "request": "^2.34",
     "request-promise-native": "^1.0.5"
   }
 }
